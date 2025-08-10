@@ -1,0 +1,22 @@
+/* style.css */
+.stMetric {
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.stMetric h3 {
+    color: #6c757d;
+    font-size: 1rem;
+}
+
+.stMetric div {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+[data-testid="stSidebar"] {
+    background-color: #f8f9fa;
+    padding: 20px;
+}
